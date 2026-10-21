@@ -25,6 +25,11 @@ Read this [Getting Started Guide](https://docs.lubelogger.com/Installation/Getti
 ### Kubernetes Deployment
 [Helm Chart](https://artifacthub.io/packages/helm/anza-labs/lubelogger) provided by [Anza-Labs](https://github.com/anza-labs)
 
+### One-Click Deployment
+[RepoCloud](https://repocloud.io/details/LubeLogger/)
+
+[Railway](https://railway.com/deploy/lubelogger)
+
 ### Need Help?
 [Documentation](https://docs.lubelogger.com/)
 
